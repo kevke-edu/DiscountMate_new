@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'What is DiscountMate?',
-    imgSrc: require('@site/static/img/discountmatemain.png').default,
+    // imgSrc: require('../../../static/img/discountmatemain.png').default,
     description: (
       <>
         DiscountMate is an automated price intelligence platform that collects, structures, and analyses grocery retail data across major supermarkets. 
